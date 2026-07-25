@@ -1,0 +1,7 @@
+# ToolKit robots.txt
+# Allow all search engines full access to index the public site
+User-agent: *
+Allow: /
+Disallow:
+
+Sitemap: /sitemap.xml
