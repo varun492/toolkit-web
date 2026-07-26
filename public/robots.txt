@@ -4,4 +4,4 @@ User-agent: *
 Allow: /
 Disallow:
 
-Sitemap: /sitemap.xml
+Sitemap: https://toolkit-web-3oxy.vercel.app/sitemap.xml
